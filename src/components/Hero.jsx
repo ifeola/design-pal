@@ -1,4 +1,4 @@
-import HeroImg from "../assets/Hero-img.png";
+import HeroImg from "https://unsplash.com/photos/a-man-walking-down-a-hallway-in-an-office-kHaVjpAH5J4";
 import card from "../assets/Credit Card.png";
 import { IoStar } from "react-icons/io5";
 import Button from "./Button";
